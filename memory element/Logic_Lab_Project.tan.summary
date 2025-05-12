@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : -0.114 ns
+From           : s2
+To             : inst1
+From Clock     : --
+To Clock       : clock
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 13.255 ns
+From           : inst5
+To             : l2
+From Clock     : s1
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : 2.659 ns
+From           : s3
+To             : inst2
+From Clock     : --
+To Clock       : s1
+Failed Paths   : 0
+
+Type           : Clock Setup: 's3'
+Slack          : N/A
+Required Time  : None
+Actual Time    : Restricted to 405.19 MHz ( period = 2.468 ns )
+From           : inst3
+To             : inst7
+From Clock     : s3
+To Clock       : s3
+Failed Paths   : 0
+
+Type           : Clock Setup: 's4'
+Slack          : N/A
+Required Time  : None
+Actual Time    : Restricted to 405.19 MHz ( period = 2.468 ns )
+From           : inst3
+To             : inst7
+From Clock     : s4
+To Clock       : s4
+Failed Paths   : 0
+
+Type           : Clock Setup: 's1'
+Slack          : N/A
+Required Time  : None
+Actual Time    : Restricted to 405.19 MHz ( period = 2.468 ns )
+From           : inst3
+To             : inst7
+From Clock     : s1
+To Clock       : s1
+Failed Paths   : 0
+
+Type           : Clock Setup: 's2'
+Slack          : N/A
+Required Time  : None
+Actual Time    : Restricted to 405.19 MHz ( period = 2.468 ns )
+From           : inst3
+To             : inst7
+From Clock     : s2
+To Clock       : s2
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+

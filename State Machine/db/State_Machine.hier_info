@@ -1,0 +1,13 @@
+|State_Machine
+S1 => ~NO_FANOUT~
+S2 => ~NO_FANOUT~
+S3 => ~NO_FANOUT~
+S4 => ~NO_FANOUT~
+M1 => ~NO_FANOUT~
+M0 => ~NO_FANOUT~
+T => ~NO_FANOUT~
+A => ~NO_FANOUT~
+B => ~NO_FANOUT~
+C => ~NO_FANOUT~
+
+
