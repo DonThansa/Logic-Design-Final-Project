@@ -1,6 +1,4 @@
-# Logic-Design-Final-Project:
-
-# Logic-Controlled Board – Digital Systems Project
+# Logic-Design-Final-Project: Logic-Controlled Board
 
 ##	Overview
 This project implements a logic-controlled board with dynamic LED behavior based on the last switch turned off. 
